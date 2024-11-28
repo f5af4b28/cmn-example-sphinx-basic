@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Usage"
+msgstr "使用方法"
+
+msgid "Installation"
+msgstr "安装"
+
+msgid "To use Lumache, first install it using pip:"
+msgstr "要使用Lumache，请使用pip进行安装："
+
+msgid "Creating recipes"
+msgstr "创建食谱"
+
+msgid ""
+"To retrieve a list of random ingredients, you can use the "
+"``lumache.get_random_ingredients()`` function:"
+msgstr "要获取一组随机配料，可以使用 ``lumache.get_random_ingredients()`` 函数："
+
+msgid "Return a list of random ingredients as strings."
+msgstr "返回一个随机配料的字符串列表。"
+
+msgid "参数"
+msgstr "参数"
+
+msgid "Optional \"kind\" of ingredients."
+msgstr "可选的“种类”成分。"
+
+msgid "引发"
+msgstr "引起"
+
+msgid "If the kind is invalid."
+msgstr "如果类型无效。"
+
+msgid "返回"
+msgstr "Return"
+
+msgid "The ingredients list."
+msgstr "配料列表。"
+
+msgid "返回类型"
+msgstr "Return type"
+
+msgid ""
+"The ``kind`` parameter should be either ``\"meat\"``, ``\"fish\"``, or "
+"``\"veggies\"``. Otherwise, :py:func:`lumache.get_random_ingredients` will "
+"raise an exception."
+msgstr ""
+"``kind`` 参数应为 ``\"meat\"``、``\"fish\"`` 或 ``\"veggies\"`` "
+"中的一个。否则，:py:func:`lumache.get_random_ingredients` 将引发异常。"
+
+msgid "Raised if the kind is invalid."
+msgstr "如果类型无效，则引发。"
+
+msgid "For example:"
+msgstr "例如："

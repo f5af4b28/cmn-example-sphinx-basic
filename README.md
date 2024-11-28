@@ -1,2 +1,0 @@
-# cmn-example-sphinx-basic
-

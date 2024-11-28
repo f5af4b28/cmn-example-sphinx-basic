@@ -1,0 +1,12 @@
+#
+msgid ""
+msgstr ""
+
+msgid "API"
+msgstr "API"
+
+msgid ":py:obj:`lumache <lumache>`\\"
+msgstr ":py:obj:`lumache <lumache>`"
+
+msgid "Lumache - Python library for cooks and food lovers."
+msgstr "Lumache - 为厨师和美食爱好者设计的Python库。"

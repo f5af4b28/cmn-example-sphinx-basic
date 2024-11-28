@@ -1,0 +1,34 @@
+#
+msgid ""
+msgstr ""
+
+msgid "lumache"
+msgstr "lumache"
+
+msgid "Lumache - Python library for cooks and food lovers."
+msgstr "Lumache - 为厨师和美食爱好者设计的Python库。"
+
+msgid "This is a Python docstring, we can use reStructuredText syntax here!"
+msgstr "这是一个Python文档字符串，我们可以在其中使用reStructuredText语法！"
+
+msgid "Functions"
+msgstr "函数"
+
+msgid ""
+":py:obj:`get_random_ingredients <lumache.get_random_ingredients>`\\ "
+"\\(\\[kind\\]\\)"
+msgstr ""
+":py:obj:`get_random_ingredients <lumache.get_random_ingredients>`\\ "
+"\\([种类]\\)"
+
+msgid "Return a list of random ingredients as strings."
+msgstr "返回一个随机食材的字符串列表。"
+
+msgid "Exceptions"
+msgstr "异常处理"
+
+msgid ":py:obj:`InvalidKindError <lumache.InvalidKindError>`\\"
+msgstr ":py:obj:`InvalidKindError <lumache.InvalidKindError>`"
+
+msgid "Raised if the kind is invalid."
+msgstr "如果类型无效，则引发此异常。"
